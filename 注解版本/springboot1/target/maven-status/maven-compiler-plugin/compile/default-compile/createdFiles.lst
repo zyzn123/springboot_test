@@ -1,0 +1,3 @@
+DemoApplication.class
+com\demo\bean\Department.class
+com\demo\mapper\DepartmentMapper.class
