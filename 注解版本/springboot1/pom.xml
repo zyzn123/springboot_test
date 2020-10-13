@@ -11,7 +11,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.0</version>
+            <version>4.13.1</version>
             <!-- 作用范围：有编译、运行、测试编译、测试运行、打包阶段。 -->
             <!-- scope的值有：compile、provided、runtime、test、system -->
             <!-- compile：scope默认值。参与到编译、运行、测试编译、测试运行阶段，会被打包，该依赖关系会传播到依赖项目。 -->
